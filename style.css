@@ -1,0 +1,146 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+   
+}
+body
+{
+    background-color: #F8E3EA;
+}
+.box
+{
+    background-color: white;
+    border-radius: 5px;
+    height: 533px;
+    width: 1095px;
+    margin: 37px 114px;
+    overflow: hidden;
+    box-shadow:12px 20px 20px 3px rgba(0, 0, 0, 0.134);
+}
+.menu
+{
+    background-color: #B464E1;
+    height: 50px;
+    width: 65px;
+    
+}
+.menu > img
+{
+    height: 18px;
+    width: 22px;
+    margin: 20px 20px;
+}
+.menu-items
+{
+    margin-top: 91px;
+}
+.menu > .menu-items > img
+{
+    display: block;
+    height: 25px;
+    width: auto;
+    padding-left: 15px;
+    margin-bottom: 26px;
+}
+
+.cloud > img
+{
+    height: 32px;
+    width: auto;
+    padding-left: 15px;
+    margin-bottom: -98px;
+}
+p
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(129, 129, 129);
+}
+
+.img-box 
+{
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+    overflow: hidden;
+    height: 589px;
+    width: 385px;
+    margin: -597px 175px;
+    box-shadow: 8px 20px 20px 11px rgb(0 1 0 / 41%);
+}
+.img > img
+{ 
+    overflow: hidden;
+    border-radius: 5px;
+}
+
+.social-icon
+{
+    margin: -80px 112px;
+}
+.social-icon > img
+{
+    padding-left: 10px;
+    height: 20px;
+    width: auto;
+    display: inline-block;
+}
+.textheading
+{
+    font-family: Arial Black;
+    color: white;
+    font-size: 20px;
+    margin: -98px 50px;
+}
+.para
+{
+    position: absolute;
+    margin: -439px 153px;
+    right: 0px;
+}
+hr
+{
+    margin-top: 45px;
+}
+h2
+{
+    font-size: 32px;
+    color: black;
+    font-family: Arial;
+    font-weight: 800;
+    margin-top: 45px;
+}
+.mr >img
+{
+    height: 50px;
+    width: auto;
+    margin-top: 20px;
+}
+h4{
+    color: black;
+    font-family: Arial black;
+    font-size: 18px;
+    
+}
+#rocket
+{
+    padding-left: 200px;
+}
+.text1, .text2
+{
+    display: inline-flex;
+    flex-direction: column;
+}
+.text1 > .p1 > p
+{
+    font-size: 16px;
+    margin-top: 20px;
+}
+.text2 > .p2 > p
+{
+    font-size: 16px;
+    margin-top: 20px;
+}
+.text2
+{
+    margin-left: 50px;
+}
